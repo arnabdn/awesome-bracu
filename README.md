@@ -22,3 +22,5 @@ A repository for BRACU students to showcase their projects.
 - **[BRACU-Library-App](https://github.com/tanjid440/BRACU-Library-App)**
     - A WIP mobile application for BRAC University Ayesha Abed Library based on React Native Expo.
 
+- **[BRACU_LibraryAutoRenew](https://github.com/sadmanamin/BRACU_LibraryAutoRenew)**
+    - A python selenium script that autorenews borrowed books when run.
