@@ -1,4 +1,5 @@
-# Awesome-BRACU
+# Awesome-BRACU [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 A repository for BRACU students to showcase their projects.
 
