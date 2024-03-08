@@ -31,4 +31,6 @@ A repository for BRACU students to showcase their projects.
   
 - **[Swappr](https://github.com/axif0/swappr)**  
     A web app for swapping courses after pre-advising powered by Tailwind, Vite, and Firebase.
+- **[Better Usis](https://github.com/nur-zaman/better-usis)**  
+    A website with a sleek UI overhaul for USIS powered by Next.js, Tailwind, and Shadcn.
     
